@@ -8,8 +8,9 @@ Install Dependencies:
 Run the dependency.py script:
 
 bash
-Copy code
+
 python dependency.py
+
 This will install all necessary packages.
 
 Prepare the Data File:
@@ -21,5 +22,4 @@ Run the Main Script:
 Execute the main script:
 
 bash
-Copy code
 python main.py
