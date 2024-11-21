@@ -1,26 +1,18 @@
-# mecu
+# Step 1: Create a Virtual Environment (Optional)
+python -m venv myenv
 
+# Activate the virtual environment:
+# For Linux/macOS:
+source myenv/bin/activate
 
+# For Windows:
+myenv\Scripts\activate
 
-Running the Project
-Install Dependencies:
-
-Run the dependency.py script:
-
-bash
-
+# Step 2: Install Dependencies
 python dependency.py
 
-This will install all necessary packages.
+# Step 3: Prepare the Data File
+# Ensure that impo.csv is placed in the project directory.
 
-Prepare the Data File:
-
-Ensure that impo.csv is placed in the project directory.
-
-Run the Main Script:
-
-Execute the main script:
-
-bash
-
+# Step 4: Run the Main Script
 python main.py
