@@ -22,4 +22,5 @@ Run the Main Script:
 Execute the main script:
 
 bash
+
 python main.py
